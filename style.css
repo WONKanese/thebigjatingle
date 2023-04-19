@@ -1,0 +1,87 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.body {
+  font-family: "Courier New", Courier, monospace;
+}
+.title {
+  color: green;
+  text-align: center;
+  margin: 5vw auto 1vw auto;
+}
+.title-img {
+  display: block;
+  margin-top: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%;
+}
+.subtitle {
+  color: green;
+  text-align: center;
+  margin: 0 auto;
+}
+.section {
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+  padding-left: 10px;
+}
+.section-title {
+  margin-left: 10%;
+  margin-bottom: -5px;
+  font-size: 37px;
+}
+.overview-title {
+  color: black;
+}
+.overview-text, .history-text{
+  font-size: 20px;
+}
+ul {
+  list-style-position: inside;
+}
+.date {
+  font-weight: 700;
+  font-size: 22px;
+}
+.section-line {
+  background-color: grey;
+  height: 5px;
+  width: 30%;
+  margin-left: 0px;
+}
+.warning-img{
+  display: block;
+  margin-top: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+}
+.history-img {
+  width: 20%;
+  height:10%;
+}
+.warning {
+  text-align: center;
+  width:50%;
+  margin: 0 auto;
+  background-color: red;
+  border: 0.7vw solid black;
+}
+.warning-text {
+  color: black;
+}
+.section-img {
+  display: block;
+  width: 20%;
+  height: 20%;
+}
+.divider{
+  height: 15px;
+  background-color: #5c5c5c;
+  width: 80%;
+  margin: 10px auto 0 auto;
+}
